@@ -1,6 +1,6 @@
 # Neptune
 
-Dark Omarchy theme. Custom variant of `neptune`.
+Dark Omarchy theme.
 
 ## Files
 
